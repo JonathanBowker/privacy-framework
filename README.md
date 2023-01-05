@@ -3,8 +3,7 @@ The "Privacy Framework" is focused on gathering, presenting and linking data pro
 
    ## For Update Notifications
     Follow me on Twitter: (@jonathanbowker}[https://twitter.com/jonathanbowker]. 
-    
-    Watch or star the project on Github: <a href="https://github.com/jonathanbowker/privacy-framework">https://github.com/jonathanbowker/privacy-framework</a>
+  
 
    ### Suggestions, Comments, Feedback
     Feedback or new tool suggestions are extremely welcome! Please feel free to reach out on Twitter or submit an issue on Github.
