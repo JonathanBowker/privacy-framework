@@ -1,3 +1,5 @@
+# AUTHOR PRIVACY STATEMENT
+
 ## Human readable summary
 If you publish information on publicly available websites or social media platforms (e.g. Twitter, Instagram, Facebook, etc.), [ORGANISATION] may have collected Personal Data about you. This is because Logcially operates a service that collects publicly available information from the Internet, analyses it, puts it in a database, and offers access to its database, along with data analytics, to organisations who want to understand how Web Authors react to events and topics, and the spread of misinformation and disinformation online.
 
