@@ -25,5 +25,5 @@ In each case, the only information that we have access to is information that Au
 
 The following graphic depicts how our Services work:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/JonathanBowker/privacy-framework/blob/main/images/resize.png "How our Services work")
 
