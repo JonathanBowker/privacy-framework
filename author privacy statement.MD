@@ -40,3 +40,5 @@ While nearly all Personal Data we collect about you comes from publicly availabl
 - Geolocation Information: your location.
 
 We may also analyse the Personal Data you have published to infer other Personal Data about you and provide our analysis to our customers. For example:
+
+![alt text](https://github.com/JonathanBowker/privacy-framework/blob/main/images/resize.png "How our Services work")
