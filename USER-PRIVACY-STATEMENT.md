@@ -37,7 +37,7 @@ We will indicate where any Personal Data we have requested is mandatory or optio
 Our website and Services may contain links to third-party websites. Any access to and use of such linked websites is governed by the privacy policies of those third-party websites.
 
 ## 4. How we use your Personal Data
-Primary use
+### Primary use
 
 We use data and content that you make available to us to provide the Services to you (for example, your login details across our services), invoice you, provide quotes,  and to comply with our legal obligations. We also use data to audit, detect security incidents, protect against fraud or illegal activity, identify and repair errors, and conduct research and development for the improvement of our Services so that we can provide all of our users with a better experience. 
 
@@ -55,7 +55,7 @@ We communicate with you in writing, via email, or other means available on or th
 We will keep your Personal Data for as long as it is necessary for us to provide the Services. However, if you request that we delete your data, we will also delete your data from our Services unless we are required to retain the data according to applicable law. We delete, deidentify, or anonymize any data about you as soon as it is reasonably practical, once you no longer use our Services.
 
 ## 6. With whom we may share your Personal Data
-Any member of our company group
+### Any member of our company group
 
 We may share your data with our subsidiaries, parent companies, and affiliates.
 
