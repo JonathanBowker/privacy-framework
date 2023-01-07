@@ -1,4 +1,4 @@
-##Human readable summary
+## Human readable summary
 If you publish information on publicly available websites or social media platforms (e.g. Twitter, Instagram, Facebook, etc.), [ORGANISATION] may have collected Personal Data about you. This is because Logcially operates a service that collects publicly available information from the Internet, analyses it, puts it in a database, and offers access to its database, along with data analytics, to organisations who want to understand how Web Authors react to events and topics, and the spread of misinformation and disinformation online.
 
 All the information we collect is already publicly available. The information is also information that you chose to publish online – we just collect it, index it, and put it all in the same place. This makes the data easier to search for what people are talking about and sharing online, and what they think of certain events, topics, brands and products.
@@ -9,13 +9,13 @@ Also remember: you are in control of your data. First, you have choices about wh
 
 This privacy statement addresses how we handle the personally identifiable data (“Personal Data”) that [ORGANISATION] collects and processes about individual authors of online content (“Author”, “you” or “your”) through the Services that we offer to our customers.
 
-1. For whom this statement is relevant
-This privacy statement applies to you if you publish information on publicly available websites (Twitter, Instagram, Facebook, Reddit etc.) that we collect data from.
+###  1. For whom this statement is relevant
+ This privacy statement applies to you if you publish information on publicly available websites (Twitter, Instagram, Facebook, Reddit etc.) that we  collect data from.
 
-2. Who is Logically
-For reference, we are [ORGANISATION], and we trade as [ORGANISATION] (“we”, “us” or “[ORGANISATION]”). Our registered office address is [ADDRESS]. Our registered company number is [REG NUMBER] and our VAT number is [VAT NUMBER]. Our subsidiaries, [SUBSIDIARIES] may also act as a data controller from time to time. We act as the data controller of the Personal Data that we process about you.
+### 2. Who is Logically
+ For reference, we are [ORGANISATION], and we trade as [ORGANISATION] (“we”, “us” or “[ORGANISATION]”). Our registered office address is [ADDRESS]. Our registered company number is [REG NUMBER] and our VAT number is [VAT NUMBER]. Our subsidiaries, [SUBSIDIARIES] may also act as a data controller from time to time. We act as the data controller of the Personal Data that we process about you.
 
-3. Why we collect Personal Data and from what sources
+### 3. Why we collect Personal Data and from what sources
 We collect and collate information that is publicly available on the Internet. If you can be identified from this information, and it relates to you, then it will be your Personal Data. For example, your name or username in connection with your Twitter or Facebook profile or the content of your public posts on these sites would be your Personal Data. More precisely, this is how we work: 
 
 1. We collect and index publicly available information from the Internet. 
@@ -23,4 +23,7 @@ We collect and collate information that is publicly available on the Internet. I
 
 In each case, the only information that we have access to is information that Authors like you have published or made available publicly. This information is then collected, indexed, and stored in our database. We offer access to our database, as well as analytics of the data within that database, to customers (our “Services”). This allows our customers to learn more about how Web Authors react to events and topics of interest, and the spread of misinformation and disinformation online so they can act with more certainty in their strategic decisions.  
 
-The following graphic depicts how our Services work
+The following graphic depicts how our Services work:
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
