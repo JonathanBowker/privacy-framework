@@ -50,7 +50,7 @@ When we infer data about you, we do so automatically, based on each individual p
 
 We principally use each of the categories of your Personal Data referenced above to offer our Services to our customers. We do not use algorithms to make automated decisions about you in violation of applicable law or in a way that produces a significant legal effect. In other words, we only make data (inferred or not) and analytics available to our customers. Our legal basis for this type of data processing is that we have a legitimate interest in running our business and providing our Services to our customers. Whenever we process data that has sensitive Personal Data in it, we do so only because you have made that information public. In addition to our uses of your Personal Data, our customers also have a legitimate interest in accessing this data in order to understand their customer base and engagement with their brands.
 
-For more information on Brandwatch’s services please [https://www.logically.ai/public-sector-intelligence]: click here. 
+For more information on Brandwatch’s services please  (click here)[https://www.logically.ai/public-sector-intelligence] 
 
 Secondary use
 
