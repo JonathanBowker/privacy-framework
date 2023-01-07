@@ -97,7 +97,7 @@ We prohibit our customers from using your Personal Data:
 If other entities process your Personal Data, we ensure there are adequate contractual and operational safeguards in place.
 
 ## 9. Where we store your data
-We may transfer your Personal Data to, and store it in, a country other than your own. That country may not provide the same level of data protection as your own country. Whenever we transfer your information outside of the European Economic Area or the United Kingdom, we will take steps to ensure that adequate safeguards are in place to protect your Personal Data and to make sure it is treated securely.You may contact us for a summary of the safeguards which we have put in place to protect your Personal Data and privacy rights in these circumstances.
+We may transfer your Personal Data to, and store it in, a country other than your own. That country may not provide the same level of data protection as your own country. Whenever we transfer your information outside of the European Economic Area or the United Kingdom, we will take steps to ensure that adequate safeguards are in place to protect your Personal Data and to make sure it is treated securely. You may contact us for a summary of the safeguards which we have put in place to protect your Personal Data and privacy rights in these circumstances.
 
 ## 10. Your privacy choices and rights
 ###  Your choices
