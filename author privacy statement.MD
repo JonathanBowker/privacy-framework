@@ -27,3 +27,16 @@ The following graphic depicts how our Services work:
 
 ![alt text](https://github.com/JonathanBowker/privacy-framework/blob/main/images/resize.png "How our Services work")
 
+### 4. What Personal Data we collect
+#### Personal data you publish
+
+While nearly all Personal Data we collect about you comes from publicly available sources, the  categories of  Personal Data we collect depends on the source of the data, what the source or platform chooses to make available to us, plus what you choose to make publicly available. The Personal Data that we collect could include the following categories and examples:
+
+- Identification Information: your name, username, handle, or other identifier;
+- Content Information: the content you have published via that name, username, handle, or other identifier, (e.g. comments, expressions, opinions, posts, etc.);
+- Audio/Visual Information: your profile picture or other images or videos that you post or interact with;
+- Employment Information: your job title or profession (including category of profession, for example “journalist”);
+- Demographic Information: your interests and gender; and
+- Geolocation Information: your location.
+
+We may also analyse the Personal Data you have published to infer other Personal Data about you and provide our analysis to our customers. For example:
