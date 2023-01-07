@@ -100,24 +100,24 @@ You can revoke user access on the Google Security Settings page.
 
 As a user, you are sometimes given the choice when it comes to sharing Personal Data with Brandwatch. When visiting our website, we will sometimes request your contact information, and you are always allowed to refrain from doing so. Where you have consented to our processing of your Personal Data, you can always withdraw that consent at any time. You can unsubscribe to our marketing emails by clicking the link in the emails that we send to you. You can always review and change the privacy settings available on any browser or device you use to access our Services.
 
-### Your rights
+###  Your rights
 
 You may have certain rights in relation to your data under applicable data privacy law. Depending on applicable law, you may:
 
 - request access to the Personal Data that we have about you;
-- ask us to update, rectify, delete, opt-out of the sale of or block your Personal Data;
+- ask us to update, rectify, delete, opt-out of the sales of or block your Personal Data;
 - request that we stop further use of any Personal Data we hold about you;
-- lodge a complaint about our use of your Personal Data with the data privacy authority of the country in which you live. If you have a complaint about - our data practices, we do hope that you’ll reach out to us first, so we have a chance to address your concerns;
+- lodge a complaint about our use of your Personal Data with the data privacy authority of the country in which you live. If you have a complaint about our data practices, we do hope that you’ll reach out to us first, so we have a chance to address your concerns;
 - not be discriminated against for the exercise of your privacy rights.
 
 Please note that we cannot always complete all requests. For example, we must keep certain records for financial reporting and compliance reasons or to continue to provide you with the Services. To exercise any of these rights, ask us questions, voice concerns, or request a copy of this statement in a different format, please submit a verifiable request to us by either:
 
-- completing our web form at www.brandwatch.com/legal/data-subject-access-request;
-- emailing us at privacy@brandwatch.com; or
-- calling us toll-free at 1-855-368-1500
+- completing our web form at [LINK TO FORM](https://www.advancedanalytica.co.uk)
+- emailing us at privacy@acme.com;
+- calling us toll-free at [TEL NUMEBR]
 
-Only you, or a person you have authorized to act on your behalf, may make a request related to your Personal Data. If you submit a request through an authorized agent, the agent must present signed written permission to act on your behalf, and you may also be required to independently verify your identity with us.
+Only you, or a person you have authorised to act on your behalf, may make a request related to your Personal Data. You may also make a verifiable request on behalf of your minor child or ward.  If you submit a request through an authorised agent, the agent must present signed written permission to act on your behalf and you may also be required to independently verify your identity with us.
 
-In order to protect your Personal Data, we may ask you or your authorised agent to provide additional Personal Data so that we can verify your identity. Any information that you provide will only ever be used as part of the process to confirm your identity and complete your request.  In order to protect your Personal Data, if we cannot verify your identity, we will not be able to comply with your request.
+In order to protect your Personal Data, we may ask you or your authorised agent to provide additional Personal Data so that we can verify your identity. Any information that you provide will only ever be used as part of the process to confirm your identity and complete your request. In order to protect your Personal Data, if we cannot verify your identity, we will not be able to comply with your request.
 
-Once you have submitted a request, you can expect an initial reply from the Brandwatch Privacy Team within a reasonable amount of time, dependent on where you live. Except where the law does not require or allow us to do so, any information we have of yours will be provided in an easily accessible and portable format once we have received your verifiable request. We will adhere to the appropriate response timeline that applies to you depending on where you live. We may request additional time if necessary in accordance with applicable law.
+Once you have submitted a request, you can expect an initial reply from the [ORGANISATION] Privacy Team within a reasonable amount of time, dependent on where you live. Except where the law does not require or allow us to do so, any information we have of yours will be provided in an easily accessible and portable format once we have received your verifiable request. We will adhere to the appropriate response timeline that applies to you depending on where you live. We may request additional time if necessary in accordance with applicable law.
