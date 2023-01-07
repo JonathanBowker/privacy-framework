@@ -25,7 +25,7 @@ In each case, the only information that we have access to is information that Au
 
 The following graphic depicts how our Services work:
 
-![alt text](https://github.com/JonathanBowker/privacy-framework/blob/main/images/resize.png "How our Services work")
+![alt text]( [https://github.com/JonathanBowker/privacy-framework/blob/main/images/resize.png] "How our Services work")
 
 ### 4. What Personal Data we collect
 #### Personal data you publish
@@ -41,4 +41,6 @@ While nearly all Personal Data we collect about you comes from publicly availabl
 
 We may also analyse the Personal Data you have published to infer other Personal Data about you and provide our analysis to our customers. For example:
 
-![alt text](https://github.com/JonathanBowker/privacy-framework/blob/main/images/resize.png "How our Services work")
+![alt text](https://github.com/JonathanBowker/privacy-framework/blob/main/images/Personal%20Data%20you%20have%20published.png "Personal data you publish")
+
+When we infer data about you, we do so automatically, based on each individual post. We do not look at multiple posts in combination, and our algorithms analyse each of your posts individually.
