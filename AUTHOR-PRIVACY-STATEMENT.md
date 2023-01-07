@@ -18,7 +18,7 @@ This privacy statement addresses how we handle the personally identifiable data 
  For reference, we are [ORGANISATION], and we trade as [ORGANISATION] (“we”, “us” or “[ORGANISATION]”). Our registered office address is [ADDRESS]. Our registered company number is [REG NUMBER] and our VAT number is [VAT NUMBER]. Our subsidiaries, [SUBSIDIARIES] may also act as a data controller from time to time. We act as the data controller of the Personal Data that we process about you.
 
 ### 3. Why we collect Personal Data and from what sources
-We collect and collate information that is publicly available on the Internet. If you can be identified from this information, and it relates to you, then it will be your Personal Data. For example, your name or username in connection with your Twitter or Facebook profile or the content of your public posts on these sites would be your Personal Data. More precisely, this is how we work: 
+We collect and collate information that is publicly available on the Internet. If you can be identified from this information, and it relates to you, then it will be your Personal Data. For example, your name or username in connection with your Twitter or Facebook profile or the content of your public posts on these sites would be your Personal Data. More precisely, this is how we work:
 
 1. We collect and index publicly available information from the Internet. 
 2. We get data via search crawling or by contracting directly with content providers and data resellers to gain access to data from them. 
