@@ -25,7 +25,7 @@ In each case, the only information that we have access to is information that Au
 
 The following graphic depicts how our Services work:
 
-![alt text]( [https://github.com/JonathanBowker/privacy-framework/blob/main/images/resize.png "How our Services work")
+![alt text](https://github.com/JonathanBowker/privacy-framework/blob/main/images/resize.png "How our Services work")
 
 ### 4. What Personal Data we collect
 #### Personal data you publish
