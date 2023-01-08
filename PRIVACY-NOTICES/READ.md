@@ -2,7 +2,7 @@
 
 It is important to us that you have trust and confidence that we will protect your privacy and uphold the highest standard of compliance with data protection law. We have an obligation to inform our data subjects about the collection and use of their personal data by the [ORGANISATION]. This is a key transparency requirement under the UK General Data Protection Regulation (UK GDPR).
 
-You can find out more information about the way we use personal data by viewing our range of [privacy notices](#privacy-notices-exist-for-the-following-categories-of-data-subjects)privacy notices. There are privacy notices for different categories of individuals who we hold personal data about and for the services we offer. 
+You can find out more information about the way we use personal data by viewing our range of [privacy notices](#privacy-notices-exist-for-the-following-categories-of-data-subjects). There are privacy notices for different categories of individuals who we hold personal data about and for the services we offer. 
 
 ##### These notices inform our data subjects:
 
