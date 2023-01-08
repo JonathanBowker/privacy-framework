@@ -2,7 +2,7 @@
 
 The GDPR provides data subjects with the following data subject rights:
 
-**The right to be informed** – [ORGANISATION] seeks to collect and use your personal data in a transparent manner. We fulfil this right through the use of privacy notices. Please refer to the original privacy notice used at the point that [ORGANISATION] collected your personal data. Furthermore, the [Privacy Notices Page](/PRIVACY-NOTICES/Read.MD) contains an index of privacy notices used by [ORGANISATION] in respect of various processing activities.
+**The right to be informed** – **[ORGANISATION]** seeks to collect and use your personal data in a transparent manner. We fulfil this right through the use of privacy notices. Please refer to the original privacy notice used at the point that **[ORGANISATION]** collected your personal data. Furthermore, the [Privacy Notices Page](/PRIVACY-NOTICES/Read.MD) contains an index of privacy notices used by **[ORGANISATION]** in respect of various processing activities.
 
 **The right of access** - Unless relevant exemptions apply, you have the right to be told whether we are processing your personal data and, if so, to be given a copy of it. This is known as the right of subject access. The right exists to support individuals to be aware of, and verify, the lawfulness of the processing by organisations. For further information please see the [Subject Access Page](/SUBJECT%20ACCESS/READ.md).
 
@@ -35,8 +35,8 @@ Once we have determined what we are going to do, we will contact you to let you 
 
 Once we have determined what we are going to do, we will contact you to let you know.
 
-**The right to withdraw consent** – where [ORGANISATION] uses consent as our lawful basis for the processing of your personal data, you have the right to withdraw your consent at any time. We are likely to use consent to conduct promotional or marketing related activities. In the first instance, please use unsubscribe links in any of our communications or use the contact information we provided within the applicable privacy notice that we used at the point we collected your personal data.  
+**The right to withdraw consent** – where **[ORGANISATION]** uses consent as our lawful basis for the processing of your personal data, you have the right to withdraw your consent at any time. We are likely to use consent to conduct promotional or marketing related activities. In the first instance, please use unsubscribe links in any of our communications or use the contact information we provided within the applicable privacy notice that we used at the point we collected your personal data.  
 
 **Reporting complaints or personal data breaches** - If you have a complaint or would like to report a personal data breach please provide as much information as possible about the circumstances to enable us to investigate. A personal data breach means a breach of security leading to the destruction, loss, alteration, unauthorised disclosure of, or access to, personal data.
 
-**Contacting us** - To exercise any of your data subject rights you are encouraged to use our [LINK to Rights Request Form], alternatively please contact: [dataprotection@org.org](mailto:dataprotection@org.org) or write to: The **[Data Protection Officer/Privacy Team], [ADDRESS]**.
+**Contacting us** - To exercise any of your data subject rights you are encouraged to use our **[LINK to Rights Request Form]**, alternatively please contact: **[dataprotection@org.org](mailto:dataprotection@org.org)** or write to: The **[Data Protection Officer/Privacy Team], [ADDRESS]**.
