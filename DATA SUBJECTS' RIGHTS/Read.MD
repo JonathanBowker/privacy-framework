@@ -18,7 +18,7 @@ The GDPR provides data subjects with the following data subject rights:
 * You are a child.
 * Once we have determined what we are going to do, we will contact you to let you know.
 
-The right to restrict processing – this right is not absolute and applies in certain circumstances. You can ask us to restrict or suppress the processing of your personal if:
+**The right to restrict processing** – this right is not absolute and applies in certain circumstances. You can ask us to restrict or suppress the processing of your personal if:
 
 * You believe your personal data is inaccurate or incomplete, and you ask us to restrict our processing of your data in certain ways until we verify the accuracy.
 * You believe we are processing your personal data unlawfully, i.e. in non-compliance with the lawfulness requirement of the First Data Protection * * Principle, and you would like us to restrict the processing of your personal data in certain ways rather than erase it.
@@ -39,4 +39,4 @@ Once we have determined what we are going to do, we will contact you to let you 
 
 **Reporting complaints or personal data breaches** - If you have a complaint or would like to report a personal data breach please provide as much information as possible about the circumstances to enable us to investigate. A personal data breach means a breach of security leading to the destruction, loss, alteration, unauthorised disclosure of, or access to, personal data.
 
-Contacting us - To exercise any of your data subject rights you are encouraged to use our [LINK to Rights Request Form], alternatively please contact: [dataprotection@org.org](mailto:dataprotection@org.org) or write to: The [Data Protection Officer/Privacy Team}, [ADDRESS].
+**Contacting us** - To exercise any of your data subject rights you are encouraged to use our [LINK to Rights Request Form], alternatively please contact: [dataprotection@org.org](mailto:dataprotection@org.org) or write to: The [Data Protection Officer/Privacy Team}, [ADDRESS].
