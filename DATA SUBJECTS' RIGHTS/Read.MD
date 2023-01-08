@@ -39,4 +39,4 @@ Once we have determined what we are going to do, we will contact you to let you 
 
 **Reporting complaints or personal data breaches** - If you have a complaint or would like to report a personal data breach please provide as much information as possible about the circumstances to enable us to investigate. A personal data breach means a breach of security leading to the destruction, loss, alteration, unauthorised disclosure of, or access to, personal data.
 
-**Contacting us** - To exercise any of your data subject rights you are encouraged to use our [LINK to Rights Request Form], alternatively please contact: [dataprotection@org.org](mailto:dataprotection@org.org) or write to: The [Data Protection Officer/Privacy Team}, [ADDRESS].
+**Contacting us** - To exercise any of your data subject rights you are encouraged to use our [LINK to Rights Request Form], alternatively please contact: [dataprotection@org.org](mailto:dataprotection@org.org) or write to: The **[Data Protection Officer/Privacy Team], [ADDRESS]**.
