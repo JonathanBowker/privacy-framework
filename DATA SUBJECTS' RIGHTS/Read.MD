@@ -21,7 +21,7 @@ The GDPR provides data subjects with the following data subject rights:
 **The right to restrict processing** – this right is not absolute and applies in certain circumstances. You can ask us to restrict or suppress the processing of your personal if:
 
 * You believe your personal data is inaccurate or incomplete, and you ask us to restrict our processing of your data in certain ways until we verify the accuracy.
-* You believe we are processing your personal data unlawfully, i.e. in non-compliance with the lawfulness requirement of the First Data Protection * * Principle, and you would like us to restrict the processing of your personal data in certain ways rather than erase it.
+* You believe we are processing your personal data unlawfully, i.e. in non-compliance with the lawfulness requirement of the First Data Protection Principle, and you would like us to restrict the processing of your personal data in certain ways rather than erase it.
 * You would like us to retain your personal data for longer than stated in our [Retention and Disposal Schedule](/RECORDS-MANAGEMENT.Read.MD), i.e. to establish, exercise or defend a legal claim.
 * You have already objected to our processing of your personal data using the legitimate interest lawful basis, and you would like us to restrict the processing of your personal data in certain ways until we have verified whether we have an overriding legitimate interest to continue processing.
 
