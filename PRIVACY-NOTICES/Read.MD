@@ -1,3 +1,5 @@
+# PRIVACY NOTICES
+
 [ORGANISATION] handles a substantial amount of personal data about individuals. This personal data is held about: prospective staff, current staff, previous staff, suppliers, customers and users of our website and many other individuals that we come into contact with as a provider of online services.
 
 It is important to us that you have trust and confidence that we will protect your privacy and uphold the highest standard of compliance with data protection law. We have an obligation to inform our data subjects about the collection and use of their personal data by the [ORGANISATION]. This is a key transparency requirement under the UK General Data Protection Regulation (UK GDPR).
