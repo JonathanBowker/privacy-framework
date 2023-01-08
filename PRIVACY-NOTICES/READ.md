@@ -20,11 +20,22 @@ You can find out more information about the way we use personal data by viewing 
 
 ##### Privacy notices exist for the following categories of data subjects:
 
+* Web Author Data Subjects
 * CCTV Data Subjects
-* Covid-19 Monitoring - Test and Trace
-* Engaged Scholarship Network
 * Staff
+* Suppliers
 * Website Users
 
-Statement of [] - this statement explains when we rely upon UK GDPR Article 6(1)e - public task as our lawful basis for processing personal data.
+Statement of [Contract] - this statement explains when we rely upon UK GDPR Article 6(1)b - Contract as our lawful basis for processing personal data.
 
+(a) Consent: the individual has given clear consent for you to process their personal data for a specific purpose.
+
+(b) Contract: the processing is necessary for a contract you have with the individual, or because they have asked you to take specific steps before entering into a contract.
+
+(c) Legal obligation: the processing is necessary for you to comply with the law (not including contractual obligations).
+
+(d) Vital interests: the processing is necessary to protect someone’s life.
+
+(e) Public task: the processing is necessary for you to perform a task in the public interest or for your official functions, and the task or function has a clear basis in law.
+
+(f) Legitimate interests: the processing is necessary for your legitimate interests or the legitimate interests of a third party, unless there is a good reason to protect the individual’s personal data which overrides those legitimate interests. (This cannot apply if you are a public authority processing data to perform your official tasks.)
