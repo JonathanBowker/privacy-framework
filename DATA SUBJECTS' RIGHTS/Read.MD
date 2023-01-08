@@ -4,7 +4,7 @@ The GDPR provides data subjects with the following data subject rights:
 
 **The right to be informed** – [ORGANISATION] seeks to collect and use your personal data in a transparent manner. We fulfil this right through the use of privacy notices. Please refer to the original privacy notice used at the point that [ORGANISATION] collected your personal data. Furthermore, the [Privacy Notices Page](/PRIVACY-NOTICES/Read.MD) contains an index of privacy notices used by [ORGANISATION] in respect of various processing activities.
 
-**The right of access** - Unless relevant exemptions apply, you have the right to be told whether we are processing your personal data and, if so, to be given a copy of it. This is known as the right of subject access. The right exists to support individuals to be aware of, and verify, the lawfulness of the processing by organisations. For further information please see the [Subject Access Page](/SUBJECTS-ACCESS-RIGHTS/Read.MD).
+**The right of access** - Unless relevant exemptions apply, you have the right to be told whether we are processing your personal data and, if so, to be given a copy of it. This is known as the right of subject access. The right exists to support individuals to be aware of, and verify, the lawfulness of the processing by organisations. For further information please see the [Subject Access Page](/SUBJECTS-ACCESS/Read.MD).
 
 **The right to rectification** - If you believe that the personal data we hold about you is inaccurate or incomplete, please contact us and we will investigate. If your personal data is inaccurate, we will rectify it. If your personal data is incomplete, we will complete it. Once we have determined what we are going to do, we will contact you to let you know.
 
