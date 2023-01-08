@@ -1,6 +1,6 @@
 The GDPR provides data subjects with the following data subject rights:
 
-**The right to be informed** – the University seeks to collect and use your personal data in a transparent manner. We fulfil this right through the use of privacy notices. Please refer to the original privacy notice used at the point that the University collected your personal data. Furthermore, the [Privacy Notices Page](PRIVACY-NOTICES/Read.MD) contains an index of privacy notices used by the University in respect of various processing activities.
+**The right to be informed** – the University seeks to collect and use your personal data in a transparent manner. We fulfil this right through the use of privacy notices. Please refer to the original privacy notice used at the point that the University collected your personal data. Furthermore, the [Privacy Notices Page](/PRIVACY-NOTICES/Read.MD) contains an index of privacy notices used by the University in respect of various processing activities.
 
 **The right of access** - Unless relevant exemptions apply, you have the right to be told whether we are processing your personal data and, if so, to be given a copy of it. This is known as the right of subject access. The right exists to support individuals to be aware of, and verify, the lawfulness of the processing by organisations. For further information please see the [University’s Subject Access Page](https://www.mmu.ac.uk/data-protection/subject-access).
 
