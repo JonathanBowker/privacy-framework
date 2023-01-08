@@ -48,9 +48,9 @@ You are entitled to receive the personal data the University holds relating to y
 Your right of access applies to:    
 
 * **your personal data within documents/other records:** it is not a right to the full documents containing your data, only to the extracts of your data within those documents;
-* **data held by [ORGANISATION] at the time of your request:** the University routinely destroys information in accordance with its Records Retention Schedule; and we are unable to recreate or provide information which was previously held but has since been routinely destroyed.
+* **data held by [ORGANISATION] at the time of your request:** [ORGANISATION] routinely destroys information in accordance with its Records Retention Schedule; and we are unable to recreate or provide information which was previously held but has since been routinely destroyed.
 
-In addition, under the Right of Access, you are entitled to receive supplementary information about the University’s data processing activities.  We provide this information to you in the following documents:  
+In addition, under the Right of Access, you are entitled to receive supplementary information about [ORGANISATION]’s data processing activities.  We provide this information to you in the following documents:  
 
 * our [Privacy Notices](/PRIVACY-NOTICES/Read.MD) provide further information about the data we process, including the purposes for processing personal data, the categories of data, and who we share information with.
 * our [Records Management Policy](/RECORDS%20MANAGEMENT/Read.MD) and Retention and Disposal Schedule  
@@ -58,11 +58,11 @@ In addition, under the Right of Access, you are entitled to receive supplementar
 
 ## CAN I OBTIAN COPIES OF EMAILS?
 
-Yes, you may request copies of emails held by the [ORGANISATION] containing personal data relating to you. However, please note that: 
+Yes, you may request copies of emails held by the **[ORGANISATION]** containing personal data relating to you. However, please note that: 
 
 * email is not a data storage facility but a communication tool.  Emails are often informal and contain information about other individuals with the same/similar name, or information about more than one individual.
 * we cannot conduct a central organisation-wide computerised search for all personal data relating to one person; the system is too large, data is too complex, and no computer system can identify personal data.
-* the process for identifying and providing personal data held in emails requires: individual searches of specified email accounts, a manual review of all data retrieved to identify personal data, the removal of duplicate copies, and the removal/redaction of exempt information such as third party personal data.   Email searches often result in large volumes of complex data, containing personal data information about more than one person.  Depending upon the volume & complexity of the data involved, a request for email data may result in an extended timescale for responding to your SAR; or increase the likelihood that the University may refuse your request as manifestly unfounded or excessive.
+* the process for identifying and providing personal data held in emails requires: individual searches of specified email accounts, a manual review of all data retrieved to identify personal data, the removal of duplicate copies, and the removal/redaction of exempt information such as third party personal data.   Email searches often result in large volumes of complex data, containing personal data information about more than one person.  Depending upon the volume & complexity of the data involved, a request for email data may result in an extended timescale for responding to your SAR; or increase the likelihood that **[ORGANISATION]** may refuse your request as manifestly unfounded or excessive.
 * unless you specifically request otherwise, we will not usually provide copies of emails containing your name in the To/From/Cc fields of an email, as we assume that you already have access to this data (having sent/received it previously from your own account).  However, if you do wish to request duplicate copies of emails you have deleted/mislaid, please let us know.
 
 To enable us to identify emails containing personal data relating to you, we will ask you to provide the following information with your request:
@@ -73,7 +73,7 @@ To enable us to identify emails containing personal data relating to you, we wil
 
 ## WILL YOU REFUSE TO PROVIDE ANY INFORMATION?
 
-[ORGANISATION] has the right to charge a fee, or refuse any request, which is manifestly unfounded or excessive, or repetitive.  If this applies to your request, we will contact you within one month of receiving your request to let you know.
+**[ORGANISATION]** has the right to charge a fee, or refuse any request, which is manifestly unfounded or excessive, or repetitive.  If this applies to your request, we will contact you within one month of receiving your request to let you know.
 
 There are also some exemptions to the right of subject access (such as personal data relating to another person) which means you may not be entitled to receive all of the information within a document.  Information you are not entitled to receive will not be included in the disclosure – we will remove this from any documents we provide
 
